@@ -1,0 +1,22 @@
+body{
+    box-sizing: border-box;
+}
+main{
+    display: flex;
+    width: 60%;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    background-color: rgb(14, 37, 209);
+    color:white;
+    padding: 0.5rem ;
+   
+}
+
+h3{
+    background-color: coral;
+    flex: 0 100%;
+   padding: 0.5rem ;
+}
